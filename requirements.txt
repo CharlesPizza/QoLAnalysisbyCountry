@@ -37,6 +37,7 @@ jupyter-server==1.17.1
 jupyterlab==3.4.3
 jupyterlab-pygments==0.2.2
 jupyterlab-server==2.14.0
+kaleido==0.2.1
 kiwisolver==1.4.3
 lxml==4.9.0
 MarkupSafe==2.1.1
